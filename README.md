@@ -85,15 +85,11 @@ Mouse Movement in Y will control Pitch
 
 1) Open the solution file
 
-2) Go to line 56 in source.cpp and paste the path of SceneFile.txt from your system!
+2) Right click on project in solution explorer
 
-3) Go to line 67 in source.cpp and paste the path of LightsFile.txt from your system!
+3) Then click build project.
 
-4) Right click on project in solution explorer
-
-5) Then click build project.
-
-6) Voila! You got it working!
+4) Voila! You got it working!
 
 ---
 
