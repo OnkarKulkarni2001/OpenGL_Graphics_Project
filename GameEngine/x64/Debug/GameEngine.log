@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Graphics1\Project01_Graphics\GameEngine\Source.cpp(92,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics1\Project01_Graphics\GameEngine\Source.cpp(113,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GameEngine.vcxproj -> D:\Graphics1\Project01_Graphics\x64\Debug\GameEngine.exe
+D:\Graphics1\Project01_Graphics\GameEngine\GameEngine.vcxproj(251,3): error MSB3941: Failed to zip directory "D:\Graphics1\Project01_Graphics\BundledAssets" because it does not exist or is inaccessible.
