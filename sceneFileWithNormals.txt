@@ -1,0 +1,30 @@
+number_of_meshes 10
+
+mesh_paths 
+"..\project_01_assets\sofa_xyz_n_rgba.ply"
+"..\project_01_assets\lowPolyTree_xyz_n_rgba.ply"
+"..\project_01_assets\rubble_xyz_n_rgba.ply"
+"..\project_01_assets\GasStation_xyz_n_rgba.ply"
+"..\project_01_assets\f1_xyz_n_rgba.ply"
+"..\project_01_assets\black_car_xyz_n_rgba.ply"
+"..\project_01_assets\streetLamp_xyz_n_rgba.ply"
+"..\project_01_assets\street_xyz_n_rgba.ply"
+"..\project_01_assets\shop_xyz_n_rgba.ply"
+"..\project_01_assets\building_xyz_n_rgba.ply"
+
+
+// meshTransform layout
+// x y z xScale yScale zScale xRotation yRotation zRotation
+// where rotations are angles.
+
+mesh_transforms
+12.0 -16.0 -0.3  1 1 1  0 0 180 
+-3.0 16.0 0.0 1 1 1  0 0 90
+-9.0 -9.0 -0.4  0.7 0.7 0.7  0 0 90
+4.0 5.5 -0.1  100 100 100  0 0 0
+9.0 3.2 -0.18  1 1 1  0 0 0
+17.0 8.0 -0.13  0.8 0.8 0.8  0 0 0
+20.0 15.0 0.0  0.8 0.8 0.8  0 0 0
+1.0 -11.0 -0.8  1.9 1 0.8  0 0 0
+15.0 15.0 -0.3  2.4 2.4 2.4  0 0 -90
+-14.4 5.7 -0.3  1.7 4 2  0 0 0
