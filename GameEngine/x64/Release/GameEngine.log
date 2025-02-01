@@ -1,2 +1,22 @@
-﻿  GameEngine.vcxproj -> D:\Graphics1\Project01_Graphics\x64\Release\GameEngine.exe
+﻿  glad.c
+  FlyCam.cpp
+  Source.cpp
+D:\Graphics1\Project01_Graphics\GameEngine\Source.cpp(92,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics1\Project01_Graphics\GameEngine\Source.cpp(113,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  cAiEnemy.cpp
+  cLightManager.cpp
+  cLightMover.cpp
+  cLoadModels.cpp
+  cPhysicsUpdated.cpp
+  cPlayer.cpp
+  cRenderModel.cpp
+  cScene.cpp
+  cShaderCompiler.cpp
+  cVAOManager.cpp
+  Generating code
+  0 of 498 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameEngine.vcxproj -> D:\Graphics1\Project01_Graphics\x64\Release\GameEngine.exe
   Zipping directory "D:\Graphics1\Project01_Graphics\BundledAssets" to "D:\Graphics1\Project01_Graphics\project3.zip".
